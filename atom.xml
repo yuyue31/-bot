@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://github.com/yuyue31/Ceobe</id>
     <title>小刻的家</title>
-    <updated>2022-07-21T05:41:12.299Z</updated>
+    <updated>2022-07-21T05:48:50.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://github.com/yuyue31/Ceobe"/>
     <link rel="self" href="https://github.com/yuyue31/Ceobe/atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://github.com/yuyue31/Ceobe/favicon.ico</icon>
     <rights>All rights reserved 2022, 小刻的家</rights>
     <entry>
-        <title type="html"><![CDATA[hello world-0.02内侧版本]]></title>
+        <title type="html"><![CDATA[hello world-0.02内测版本]]></title>
         <id>https://github.com/yuyue31/Ceobe/post/hello-world-002-nei-ce-ban-ben/</id>
         <link href="https://github.com/yuyue31/Ceobe/post/hello-world-002-nei-ce-ban-ben/">
         </link>
